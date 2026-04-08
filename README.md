@@ -4,8 +4,6 @@ I build systems at the intersection of **Knowledge Graphs**, **AI Agents**, and 
 
 By day, I lead the Data Service team at [Lambda256](https://nodit.io/solution/clair) (Dunamu), where we build an ontology-driven blockchain data platform used by law enforcement and financial institutions worldwide.
 
-By night, I run [Monni](https://monni.ai) — a crypto trading system I built solo in 26 days, now live with real capital on Binance 24/7.
-
 ---
 
 #### What I'm working on
