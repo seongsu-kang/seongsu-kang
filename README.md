@@ -10,7 +10,7 @@ By day, I lead the Data Service team at [Lambda256](https://nodit.io/solution/cl
 
 - **[Agentic Knowledge Base](https://github.com/seongsu-kang/agentic-knowledge-base)** — A methodology for AI agents to navigate knowledge autonomously. File-based, no infra needed. Used in production across my work and personal projects.
 
-- **Monni** — AI-powered trading system. 8 strategies, ML signal filtering, RDF ontology for VC/ecosystem analysis, MCP server with 10 AI tools. Python + React + SPARQL + Docker.
+- **[Tycono](https://github.com/seongsu-kang/tycono)** — Multi-agent orchestration for running AI teams. Role-based agents, wave execution, local-first.
 
 - **AKB Guides** — Real-world patterns for scaling AI-agent-friendly knowledge systems: [CLAUDE.md design](https://github.com/seongsu-kang/agentic-knowledge-base/blob/main/guides/claude-md-design.md), [multi-agent delegation](https://github.com/seongsu-kang/agentic-knowledge-base/blob/main/guides/multi-agent-delegation.md), [discovery sprints](https://github.com/seongsu-kang/agentic-knowledge-base/blob/main/guides/discovery-sprints.md).
 
